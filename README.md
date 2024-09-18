@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="" />
+  <img src="https://github.com/DAIN302/DAIN302/blob/main/asset/dain.gif" />
 </div>
 <!--
 **DAIN302/DAIN302** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
