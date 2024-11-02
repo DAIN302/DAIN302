@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/DAIN302/DAIN302/blob/main/asset/dancingbeemo.gif" />
+  <img src="https://github.com/DAIN302/DAIN302/blob/main/asset/dancingbeemo.gif" width="100px"/>
   <img src="https://github.com/DAIN302/DAIN302/blob/main/asset/dain.gif" />
 </div>
 
