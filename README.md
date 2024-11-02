@@ -1,6 +1,10 @@
 <div align="center">
-  <img src="https://github.com/DAIN302/DAIN302/blob/main/asset/dancingbeemo.gif" width="100px"/>
-  <img src="https://github.com/DAIN302/DAIN302/blob/main/asset/dain.gif" />
+  <div>
+    <img src="https://github.com/DAIN302/DAIN302/blob/main/asset/dancingbeemo.gif" width="100px"/>
+  </div>
+  <div>
+    <img src="https://github.com/DAIN302/DAIN302/blob/main/asset/dain.gif" />
+  </div>
 </div>
 
 <h2 align="center">
