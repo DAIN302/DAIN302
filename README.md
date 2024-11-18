@@ -47,7 +47,7 @@
 </a>
 <img src="https://img.shields.io/badge/dbgnfk12@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/> 
 <a href="https://snowy-aunt-2ed.notion.site/1246edf9ca92805d9041c4346c90c8e5" target="_blank">
-<img src="https://img.shields.io/badge/Resume-000000?style=flat&logo=notion&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=notion&logoColor=white"/> 
 </a>
 </div>
 
